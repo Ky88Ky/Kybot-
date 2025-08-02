@@ -1,0 +1,818 @@
+{
+  "raybm": {
+    "1": {
+      "body": {
+        "id": "body-flesh",
+        "color": 27
+      },
+      "freckle": {
+        "id": "freckle-n_basic2018freckle04",
+        "color": 0
+      },
+      "hair_front": {
+        "id": "hair_front-n_malenew03",
+        "color": 0
+      },
+      "eye": {
+        "id": "eye-n_basic2018maleroundsquint",
+        "color": 0
+      },
+      "nose": {
+        "id": "nose-n_basic2018newnose19",
+        "color": 0
+      },
+      "mouth": {
+        "id": "mouth-n_basic2018widethinpeaked",
+        "color": 0
+      }
+    },
+    "50": {
+      "body": {
+        "id": "body-flesh",
+        "color": 27
+      },
+      "freckle": {
+        "id": "freckle-n_basic2018freckle04",
+        "color": 0
+      },
+      "hair_front": {
+        "id": "hair_front-n_malenew03",
+        "color": 0
+      },
+      "eye": {
+        "id": "eye-n_basic2018maleroundsquint",
+        "color": 0
+      },
+      "nose": {
+        "id": "nose-n_basic2018newnose19",
+        "color": 0
+      },
+      "mouth": {
+        "id": "mouth-n_basic2018widethinpeaked",
+        "color": 0
+      }
+    },
+    "2": {
+      "body": {
+        "id": "body-flesh",
+        "color": 27
+      },
+      "freckle": {
+        "id": "freckle-n_basic2018freckle04",
+        "color": 0
+      },
+      "hair_front": {
+        "id": "hair_front-n_malenew03",
+        "color": 0
+      },
+      "eye": {
+        "id": "eye-n_basic2018maleroundsquint",
+        "color": 0
+      },
+      "nose": {
+        "id": "nose-n_basic2018newnose19",
+        "color": 0
+      },
+      "mouth": {
+        "id": "mouth-n_basic2018widethinpeaked",
+        "color": 0
+      }
+    },
+    "3": {
+      "body": {
+        "id": "body-flesh",
+        "color": 8
+      },
+      "freckle": {
+        "id": "freckle-n_basic2018freckle04",
+        "color": 0
+      },
+      "pants": {
+        "id": "pants-n_room12019rippedpantsblue",
+        "color": 0
+      },
+      "shoes": {
+        "id": "shoes-n_starteritems2018conversewhite",
+        "color": 0
+      },
+      "hair_back": {
+        "id": "hair_back-n_malenew32",
+        "color": 0
+      },
+      "hair_front": {
+        "id": "hair_front-n_malenew09",
+        "color": 14
+      },
+      "shirt": {
+        "id": "shirt-n_room12019buttondownblack",
+        "color": 0
+      },
+      "eye": {
+        "id": "eye-n_basic2018malesquaresquint",
+        "color": 0
+      },
+      "nose": {
+        "id": "nose-n_basic2018newnose18",
+        "color": 0
+      },
+      "mouth": {
+        "id": "mouth-n_basic2018toothyfullround",
+        "color": 0
+      },
+      "eyebrow": {
+        "id": "eyebrow-n_basic2018newbrows11",
+        "color": 0
+      }
+    },
+    "4": {
+      "body": {
+        "id": "body-flesh",
+        "color": 9
+      },
+      "hair_back": {
+        "id": "hair_back-n_malenew32",
+        "color": 0
+      },
+      "nose": {
+        "id": "nose-n_basic2018newnose18",
+        "color": 0
+      },
+      "mouth": {
+        "id": "mouth-n_basic2018toothyfullround",
+        "color": 9
+      },
+      "shirt": {
+        "id": "shirt-f_marchingband",
+        "color": 0
+      },
+      "shoes": {
+        "id": "shoes-n_starteritems2019flatsblack",
+        "color": 0
+      },
+      "hair_front": {
+        "id": "hair_front-n_malenew16",
+        "color": 15
+      },
+      "eye": {
+        "id": "eye-n_basic2018wingedliner",
+        "color": 0
+      },
+      "eyebrow": {
+        "id": "eyebrow-n_basic2018newbrows16",
+        "color": 0
+      },
+      "skirt": {
+        "id": "skirt-n_starteritems2018blackskirt",
+        "color": 0
+      },
+      "earrings": {
+        "id": "earrings-n_room32019chainearrings",
+        "color": 0
+      },
+      "necklace": {
+        "id": "necklace-n_room12019chain",
+        "color": 0
+      },
+      "watch": {
+        "id": "watch-n_room12019watch",
+        "color": 0
+      },
+      "freckle": {
+        "id": "freckle-n_basic2018freckle22",
+        "color": 0
+      },
+      "blush": {
+        "id": "blush-f_blush01",
+        "color": 0
+      }
+    }
+  },
+  "4": {
+    "body": {
+      "id": "body-flesh",
+      "color": 9
+    },
+    "hair_back": {
+      "id": "hair_back-n_malenew32",
+      "color": 0
+    },
+    "nose": {
+      "id": "nose-n_basic2018newnose18",
+      "color": 0
+    },
+    "mouth": {
+      "id": "mouth-n_basic2018toothyfullround",
+      "color": 9
+    },
+    "shoes": {
+      "id": "shoes-n_starteritems2019flatsblack",
+      "color": 0
+    },
+    "hair_front": {
+      "id": "hair_front-n_malenew16",
+      "color": 15
+    },
+    "eye": {
+      "id": "eye-n_basic2018wingedliner",
+      "color": 0
+    },
+    "eyebrow": {
+      "id": "eyebrow-n_basic2018newbrows16",
+      "color": 0
+    },
+    "skirt": {
+      "id": "skirt-n_starteritems2018blackskirt",
+      "color": 0
+    },
+    "earrings": {
+      "id": "earrings-n_room32019chainearrings",
+      "color": 0
+    },
+    "necklace": {
+      "id": "necklace-n_room12019chain",
+      "color": 0
+    },
+    "watch": {
+      "id": "watch-n_room12019watch",
+      "color": 0
+    },
+    "freckle": {
+      "id": "freckle-n_basic2018freckle22",
+      "color": 0
+    },
+    "blush": {
+      "id": "blush-f_blush01",
+      "color": 0
+    },
+    "shirt": {
+      "id": "shirt-f_marchingband",
+      "color": 0
+    }
+  },
+  "1": {
+    "body": {
+      "id": "body-flesh",
+      "color": 9
+    },
+    "hair_back": {
+      "id": "hair_back-n_malenew32",
+      "color": 0
+    },
+    "nose": {
+      "id": "nose-n_basic2018newnose18",
+      "color": 0
+    },
+    "mouth": {
+      "id": "mouth-n_basic2018toothyfullround",
+      "color": 9
+    },
+    "hair_front": {
+      "id": "hair_front-n_malenew16",
+      "color": 15
+    },
+    "eye": {
+      "id": "eye-n_basic2018wingedliner",
+      "color": 0
+    },
+    "eyebrow": {
+      "id": "eyebrow-n_basic2018newbrows16",
+      "color": 0
+    },
+    "earrings": {
+      "id": "earrings-n_room32019chainearrings",
+      "color": 0
+    },
+    "necklace": {
+      "id": "necklace-n_room12019chain",
+      "color": 0
+    },
+    "watch": {
+      "id": "watch-n_room12019watch",
+      "color": 0
+    },
+    "freckle": {
+      "id": "freckle-n_basic2018freckle22",
+      "color": 0
+    },
+    "blush": {
+      "id": "blush-f_blush01",
+      "color": 0
+    }
+  },
+  "49": {
+    "body": {
+      "id": "body-flesh",
+      "color": 9
+    },
+    "hair_back": {
+      "id": "hair_back-n_malenew32",
+      "color": 0
+    },
+    "nose": {
+      "id": "nose-n_basic2018newnose18",
+      "color": 0
+    },
+    "mouth": {
+      "id": "mouth-n_basic2018toothyfullround",
+      "color": 9
+    },
+    "shoes": {
+      "id": "shoes-n_starteritems2019flatsblack",
+      "color": 0
+    },
+    "hair_front": {
+      "id": "hair_front-n_malenew16",
+      "color": 15
+    },
+    "eye": {
+      "id": "eye-n_basic2018wingedliner",
+      "color": 0
+    },
+    "eyebrow": {
+      "id": "eyebrow-n_basic2018newbrows16",
+      "color": 0
+    },
+    "skirt": {
+      "id": "skirt-n_starteritems2018blackskirt",
+      "color": 0
+    },
+    "earrings": {
+      "id": "earrings-n_room32019chainearrings",
+      "color": 0
+    },
+    "necklace": {
+      "id": "necklace-n_room12019chain",
+      "color": 0
+    },
+    "watch": {
+      "id": "watch-n_room12019watch",
+      "color": 0
+    },
+    "freckle": {
+      "id": "freckle-n_basic2018freckle22",
+      "color": 0
+    },
+    "blush": {
+      "id": "blush-f_blush01",
+      "color": 0
+    },
+    "shirt": {
+      "id": "shirt-f_marchingband",
+      "color": 0
+    }
+  },
+  "40": {
+    "body": {
+      "id": "body-flesh",
+      "color": 9
+    },
+    "hair_back": {
+      "id": "hair_back-n_malenew32",
+      "color": 0
+    },
+    "nose": {
+      "id": "nose-n_basic2018newnose18",
+      "color": 0
+    },
+    "mouth": {
+      "id": "mouth-n_basic2018toothyfullround",
+      "color": 9
+    },
+    "shoes": {
+      "id": "shoes-n_starteritems2019flatsblack",
+      "color": 0
+    },
+    "hair_front": {
+      "id": "hair_front-n_malenew16",
+      "color": 15
+    },
+    "eye": {
+      "id": "eye-n_basic2018wingedliner",
+      "color": 0
+    },
+    "eyebrow": {
+      "id": "eyebrow-n_basic2018newbrows16",
+      "color": 0
+    },
+    "skirt": {
+      "id": "skirt-n_starteritems2018blackskirt",
+      "color": 0
+    },
+    "earrings": {
+      "id": "earrings-n_room32019chainearrings",
+      "color": 0
+    },
+    "necklace": {
+      "id": "necklace-n_room12019chain",
+      "color": 0
+    },
+    "watch": {
+      "id": "watch-n_room12019watch",
+      "color": 0
+    },
+    "freckle": {
+      "id": "freckle-n_basic2018freckle22",
+      "color": 0
+    },
+    "blush": {
+      "id": "blush-f_blush01",
+      "color": 0
+    },
+    "shirt": {
+      "id": "shirt-f_marchingband",
+      "color": 0
+    }
+  },
+  "2": {
+    "eye": {
+      "id": "eye-n_basic2018maleround",
+      "color": 0
+    },
+    "eyebrow": {
+      "id": "eyebrow-n_basic2018newbrows03",
+      "color": 0
+    },
+    "nose": {
+      "id": "nose-n_23",
+      "color": 0
+    },
+    "mouth": {
+      "id": "mouth-basic2018poutthinround",
+      "color": 0
+    },
+    "body": {
+      "id": "body-flesh",
+      "color": 0
+    },
+    "hair_front": {
+      "id": "hair_front-n_malenew09",
+      "color": 0
+    },
+    "hair_back": {
+      "id": "hair_back-n_malenew09",
+      "color": 0
+    },
+    "freckle": {
+      "id": "freckle-n_basic2018freckle40",
+      "color": 0
+    },
+    "shirt": {
+      "id": "shirt-n_room22019bratoppink",
+      "color": 0
+    },
+    "shoes": {
+      "id": "shoes-n_starteritems2019flatswhite",
+      "color": 0
+    },
+    "pants": {
+      "id": "pants-n_starteritems2019mensshortswhite",
+      "color": 0
+    }
+  },
+  "6": {
+    "eye": {
+      "id": "eye-n_basic2018definedlashes",
+      "color": 0
+    },
+    "eyebrow": {
+      "id": "eyebrow-n_10",
+      "color": 0
+    },
+    "nose": {
+      "id": "nose-n_room22019nosestud",
+      "color": 0
+    },
+    "mouth": {
+      "id": "mouth-basic2018charmer",
+      "color": 0
+    },
+    "body": {
+      "id": "body-flesh",
+      "color": 0
+    },
+    "hair_front": {
+      "id": "hair_front-n_malenew24",
+      "color": 0
+    },
+    "hair_back": {
+      "id": "hair_back-n_malenew24",
+      "color": 0
+    },
+    "face_hair": {
+      "id": "face_hair-n_newbasicfacehairlower07",
+      "color": 0
+    },
+    "freckle": {
+      "id": "freckle-n_basic2018freckle27",
+      "color": 0
+    },
+    "shirt": {
+      "id": "shirt-n_starteritems2019maletshirtblack",
+      "color": 0
+    },
+    "shoes": {
+      "id": "shoes-n_room12019hightopsblack",
+      "color": 0
+    },
+    "pants": {
+      "id": "pants-n_2016fallgreyacidwashjeans",
+      "color": 0
+    }
+  },
+  "7": {
+    "eye": {
+      "id": "eye-n_basic2018malesquaredroopy",
+      "color": 0
+    },
+    "eyebrow": {
+      "id": "eyebrow-n_basic2018newbrows03",
+      "color": 0
+    },
+    "nose": {
+      "id": "nose-n_26",
+      "color": 0
+    },
+    "mouth": {
+      "id": "mouth-basic2018openthinpeaked",
+      "color": 0
+    },
+    "body": {
+      "id": "body-flesh",
+      "color": 0
+    },
+    "hair_front": {
+      "id": "hair_front-n_malenew05",
+      "color": 0
+    },
+    "hair_back": {
+      "id": "hair_back-n_malenew05",
+      "color": 0
+    },
+    "face_hair": {
+      "id": "face_hair-n_newbasicfacehairlower05",
+      "color": 0
+    },
+    "freckle": {
+      "id": "freckle-n_basic2018freckle35",
+      "color": 0
+    },
+    "shirt": {
+      "id": "shirt-n_starteritems2019pulloverwhite",
+      "color": 0
+    },
+    "shoes": {
+      "id": "shoes-n_whitedans",
+      "color": 0
+    },
+    "pants": {
+      "id": "pants-n_room12019rippedpantsblue",
+      "color": 0
+    }
+  },
+  "10": {
+    "eye": {
+      "id": "eye-n_basic2018crescent",
+      "color": 0
+    },
+    "eyebrow": {
+      "id": "eyebrow-n_19",
+      "color": 0
+    },
+    "nose": {
+      "id": "nose-n_basic2018newnose20",
+      "color": 0
+    },
+    "mouth": {
+      "id": "mouth-n_basic2018pillowthinround",
+      "color": 0
+    },
+    "body": {
+      "id": "body-flesh",
+      "color": 0
+    },
+    "hair_front": {
+      "id": "hair_front-n_basic2018straightsidebangs",
+      "color": 0
+    },
+    "face_hair": {
+      "id": "face_hair-n_newbasicfacehairlower17",
+      "color": 0
+    },
+    "freckle": {
+      "id": "freckle-n_sharpfaceshadow",
+      "color": 0
+    },
+    "skirt": {
+      "id": "skirt-n_room12019pleatedskirtpink",
+      "color": 0
+    },
+    "shoes": {
+      "id": "shoes-n_starteritems2019flatspink",
+      "color": 0
+    },
+    "shirt": {
+      "id": "shirt-n_room32019malepuffyjacketgreen",
+      "color": 0
+    }
+  },
+  "8": {
+    "body": {
+      "id": "body-flesh",
+      "color": 1
+    },
+    "nose": {
+      "id": "nose-n_basic2018newnose18",
+      "color": 0
+    },
+    "mouth": {
+      "id": "mouth-n_basic2018toothyfullround",
+      "color": 9
+    },
+    "shoes": {
+      "id": "shoes-n_starteritems2019flatsblack",
+      "color": 0
+    },
+    "eye": {
+      "id": "eye-n_basic2018wingedliner",
+      "color": 0
+    },
+    "eyebrow": {
+      "id": "eyebrow-n_basic2018newbrows16",
+      "color": 0
+    },
+    "skirt": {
+      "id": "skirt-n_starteritems2018blackskirt",
+      "color": 0
+    },
+    "earrings": {
+      "id": "earrings-n_room32019chainearrings",
+      "color": 0
+    },
+    "necklace": {
+      "id": "necklace-n_room12019chain",
+      "color": 0
+    },
+    "watch": {
+      "id": "watch-n_room12019watch",
+      "color": 0
+    },
+    "freckle": {
+      "id": "freckle-n_basic2018freckle22",
+      "color": 0
+    },
+    "blush": {
+      "id": "blush-f_blush01",
+      "color": 0
+    },
+    "shirt": {
+      "id": "shirt-f_marchingband",
+      "color": 0
+    },
+    "hair_front": {
+      "id": "hair_front-n_basic2019wavyflipdroop",
+      "color": 4
+    },
+    "hair_back": {
+      "id": "hair_back-n_basic2020overshoulderbraid",
+      "color": 4
+    }
+  },
+  "3": {
+    "eye": {
+      "id": "eye-n_basic2018malealmondsquint",
+      "color": 0
+    },
+    "eyebrow": {
+      "id": "eyebrow-n_23",
+      "color": 0
+    },
+    "nose": {
+      "id": "nose-n_room22019nosestud",
+      "color": 0
+    },
+    "mouth": {
+      "id": "mouth-basic2018smugmouth",
+      "color": 0
+    },
+    "body": {
+      "id": "body-flesh",
+      "color": 0
+    },
+    "hair_front": {
+      "id": "hair_front-n_basic2018straightsidebangs",
+      "color": 0
+    },
+    "face_hair": {
+      "id": "face_hair-n_newbasicfacehairlower17",
+      "color": 0
+    },
+    "freckle": {
+      "id": "freckle-n_basic2018freckle44",
+      "color": 0
+    },
+    "shirt": {
+      "id": "shirt-n_room22019bratoppink",
+      "color": 0
+    },
+    "shoes": {
+      "id": "shoes-n_room12019hightopsblack",
+      "color": 0
+    },
+    "pants": {
+      "id": "pants-n_room32019highwasittrackshortsblack",
+      "color": 0
+    }
+  },
+  "13": {
+    "eye": {
+      "id": "eye-n_basic2018malediamondsquint",
+      "color": 0
+    },
+    "eyebrow": {
+      "id": "eyebrow-n_22",
+      "color": 0
+    },
+    "nose": {
+      "id": "nose-n_basic2018newnose15",
+      "color": 0
+    },
+    "mouth": {
+      "id": "mouth-basic2018openthinround",
+      "color": 9
+    },
+    "body": {
+      "id": "body-flesh",
+      "color": 1
+    },
+    "hair_front": {
+      "id": "hair_front-n_basic2018curlysidebangs",
+      "color": 1
+    },
+    "freckle": {
+      "id": "freckle-n_basic2018freckle36",
+      "color": 0
+    },
+    "hair_back": {
+      "id": "hair_back-n_basic2020overshouldercoily",
+      "color": 1
+    },
+    "shirt": {
+      "id": "shirt-n_SCSpring2018flowershirt",
+      "color": 0
+    },
+    "shoes": {
+      "id": "shoes-n_room12019sneakerspink",
+      "color": 0
+    },
+    "skirt": {
+      "id": "skirt-n_room12019pleatedskirtpink",
+      "color": 0
+    }
+  },
+  "9": {
+    "eye": {
+      "id": "eye-n_basic2018malediamondsquint",
+      "color": 0
+    },
+    "eyebrow": {
+      "id": "eyebrow-n_22",
+      "color": 0
+    },
+    "nose": {
+      "id": "nose-n_basic2018newnose15",
+      "color": 0
+    },
+    "mouth": {
+      "id": "mouth-basic2018openthinround",
+      "color": 9
+    },
+    "body": {
+      "id": "body-flesh",
+      "color": 1
+    },
+    "hair_front": {
+      "id": "hair_front-n_basic2018curlysidebangs",
+      "color": 1
+    },
+    "freckle": {
+      "id": "freckle-n_basic2018freckle36",
+      "color": 0
+    },
+    "hair_back": {
+      "id": "hair_back-n_basic2020overshouldercoily",
+      "color": 1
+    },
+    "shirt": {
+      "id": "shirt-n_SCSpring2018flowershirt",
+      "color": 0
+    },
+    "shoes": {
+      "id": "shoes-n_room12019sneakerspink",
+      "color": 0
+    },
+    "skirt": {
+      "id": "skirt-n_room12019pleatedskirtpink",
+      "color": 0
+    }
+  }
+}

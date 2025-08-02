@@ -1,0 +1,34 @@
+{
+  "RayBM": {
+    "messages": 22,
+    "time_in_room": 190.26567554473877,
+    "last_join": 1753351613.1959088
+  },
+  "bmasd": {
+    "messages": 0,
+    "time_in_room": 0.0,
+    "last_join": 1753351219.3808467
+  },
+  "Minmi_n": {
+    "messages": 75,
+    "time_in_room": 0.0,
+    "last_join": 1753351852.497643
+  },
+  "6730bcab12f18840e29a9187": {
+    "messages": 25,
+    "time": 0,
+    "first": true
+  },
+  "6706b184165831387816d860": {
+    "messages": 6,
+    "time": 0,
+    "first": false,
+    "join_time": 1753355724.874632
+  },
+  "67d34b1764e6352233c621fa": {
+    "messages": 0,
+    "time": 0,
+    "first": false,
+    "join_time": 1753356519.286533
+  }
+}

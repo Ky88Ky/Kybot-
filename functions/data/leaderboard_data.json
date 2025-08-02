@@ -1,0 +1,47 @@
+{
+  "users": {
+    "6706b184165831387816d860": {
+      "username": "RayBM",
+      "messages": 20,
+      "time": 259,
+      "first_time": false,
+      "join_time": 1753363102.8719935
+    },
+    "677cbd6d939c6f37832bba48": {
+      "username": "Ren818",
+      "messages": 0,
+      "time": 0,
+      "join_time": 1753359593.5389292,
+      "first_time": false
+    },
+    "68747de0047cdeb1c1f61fe8": {
+      "username": "CanvasserLactic",
+      "messages": 0,
+      "time": 0,
+      "join_time": 1753357660.5953224,
+      "first_time": false
+    },
+    "678c9ae5004512a09d85b66e": {
+      "username": "Warning871",
+      "messages": 0,
+      "time": 0,
+      "join_time": 1753357935.1719918,
+      "first_time": false
+    },
+    "65fb2e9778ecf9d1bf497c12": {
+      "username": "_.ky11._",
+      "messages": 0,
+      "time": 0,
+      "join_time": 1753359532.0874276,
+      "first_time": false
+    },
+    "650e5f6b8611f601815a2353": {
+      "username": "maile_depp",
+      "messages": 0,
+      "time": 0,
+      "join_time": 1753361803.0423176,
+      "first_time": false
+    }
+  },
+  "blocked": []
+}
