@@ -23,7 +23,7 @@ class WebServer():
 
 class RunBot():
   room_id = "6706b1dc20084804ef575ccb"
-  bot_token = "a044411280f955dc50152f4abee924ad1ec33fc143718c36d1427eaa8629d130"
+  bot_token = "952eb9e203ec82a938dec4751c3692b4f6ae6ac77261d3729400e26531d761a6"
   bot_file = "main"
   bot_class = "Bot"
 
